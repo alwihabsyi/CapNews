@@ -80,4 +80,7 @@ dependencies {
 
     // Glide
     implementation("com.github.bumptech.glide:glide:4.11.0")
+
+    // LeakCanary
+    debugImplementation("com.squareup.leakcanary:leakcanary-android:3.0-alpha-1")
 }
