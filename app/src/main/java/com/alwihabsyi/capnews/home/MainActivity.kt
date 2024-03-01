@@ -62,6 +62,7 @@ class MainActivity : AppCompatActivity() {
                 is Resource.Error -> {
                     Toast.makeText(this, it.message, Toast.LENGTH_SHORT).show()
                 }
+
             }
         }
     }
