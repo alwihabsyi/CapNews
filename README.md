@@ -1,1 +1,1 @@
-[![alwihabsyi](https://circleci.com/gh/alwihabsyi/CapNews.svg?style=svg)](https://app.circleci.com/pipelines/circleci/5hCkrU9ccVpxF7ayeVoLQx/6CiFs5cHKXgYbfAvmzchBN)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/5hCkrU9ccVpxF7ayeVoLQx/6CiFs5cHKXgYbfAvmzchBN/tree/main.svg?style=svg&circle-token=e6241a1ac1d61b7f0fc9a615d8f684d709efe3ee)](https://dl.circleci.com/status-badge/redirect/circleci/5hCkrU9ccVpxF7ayeVoLQx/6CiFs5cHKXgYbfAvmzchBN/tree/main)
