@@ -95,9 +95,8 @@ public *;
 }
 
 ##---------------Begin: proguard configuration for DataBinding ----------
--keepclassmembers class * extends androidx.viewbinding.ViewBinding {
-    public static *** bind(android.view.View);
-}
+-keep class * extends androidx.viewbinding.ViewBinding  { *;}
+-keepclassmembers class * extends androidx.viewbinding.ViewBinding  { *;}
 -keepclassmembers class com.alwihabsyi.capnews.databinding.**  {
     public <methods>;
 }

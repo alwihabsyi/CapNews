@@ -2,4 +2,5 @@
     <string name="app_name">CapNews</string>
     <string name="title_favorite">Favorite</string>
     <string name="news">news</string>
+    <string name="favorite_button">favorite_button</string>
 </resources>
