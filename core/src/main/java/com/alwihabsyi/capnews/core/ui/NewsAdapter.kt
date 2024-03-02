@@ -1,6 +1,5 @@
 package com.alwihabsyi.capnews.core.ui
 
-import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.AsyncListDiffer
